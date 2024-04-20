@@ -1,0 +1,19 @@
+C:\Study\Week 05\UAMS\UAMS\bin\Debug\UAMS.exe.config
+C:\Study\Week 05\UAMS\UAMS\bin\Debug\UAMS.exe
+C:\Study\Week 05\UAMS\UAMS\bin\Debug\UAMS.pdb
+C:\Study\Week 05\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+C:\Study\Week 05\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+C:\Study\Week 05\UAMS\UAMS\obj\Debug\UAMS.exe
+C:\Study\Week 05\UAMS\UAMS\obj\Debug\UAMS.pdb
+D:\1 UET\Semester 2\OOP\UAMS\UAMS\bin\Debug\UAMS.exe.config
+D:\1 UET\Semester 2\OOP\UAMS\UAMS\bin\Debug\UAMS.exe
+D:\1 UET\Semester 2\OOP\UAMS\UAMS\bin\Debug\UAMS.pdb
+D:\1 UET\Semester 2\OOP\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\1 UET\Semester 2\OOP\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\1 UET\Semester 2\OOP\UAMS\UAMS\obj\Debug\UAMS.exe
+D:\1 UET\Semester 2\OOP\UAMS\UAMS\obj\Debug\UAMS.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Coding\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Coding\UAMS\UAMS\obj\Debug\UAMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Coding\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Coding\UAMS\UAMS\obj\Debug\UAMS.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Coding\UAMS\UAMS\obj\Debug\UAMS.pdb

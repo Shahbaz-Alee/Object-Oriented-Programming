@@ -1,0 +1,15 @@
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\bin\Debug\PacmanGUI.exe.config
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\bin\Debug\PacmanGUI.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\bin\Debug\PacmanGUI.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.Form1.resources
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.Properties.Resources.resources
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.GenerateResource.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\bin\Debug\EZInput.dll
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\bin\Debug\NuGet.Frameworks.dll
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\bin\Debug\EZInput.xml
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.CopyComplete

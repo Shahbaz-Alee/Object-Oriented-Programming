@@ -1,0 +1,12 @@
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Application GUI\bin\Debug\Application GUI.exe.config
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Application GUI\bin\Debug\Application GUI.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Application GUI\bin\Debug\Application GUI.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Application GUI\obj\Debug\Application GUI.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Application GUI\obj\Debug\Application GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Application GUI\obj\Debug\Application_GUI.Form1.resources
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Application GUI\obj\Debug\Application_GUI.Properties.Resources.resources
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Application GUI\obj\Debug\Application GUI.csproj.GenerateResource.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Application GUI\obj\Debug\Application GUI.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Application GUI\obj\Debug\Application GUI.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Application GUI\obj\Debug\Application GUI.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Application GUI\obj\Debug\Application_GUI.SignIn.resources

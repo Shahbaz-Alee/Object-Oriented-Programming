@@ -1,0 +1,8 @@
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Week06a\Week06a\bin\Debug\Week06a.exe.config
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Week06a\Week06a\bin\Debug\Week06a.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Week06a\Week06a\bin\Debug\Week06a.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Week06a\Week06a\obj\Debug\Week06a.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Week06a\Week06a\obj\Debug\Week06a.csproj.SuggestedBindingRedirects.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Week06a\Week06a\obj\Debug\Week06a.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Week06a\Week06a\obj\Debug\Week06a.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Week06a\Week06a\obj\Debug\Week06a.pdb

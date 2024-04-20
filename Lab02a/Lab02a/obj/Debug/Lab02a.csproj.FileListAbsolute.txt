@@ -1,0 +1,8 @@
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab02a\Lab02a\bin\Debug\Lab02a.exe.config
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab02a\Lab02a\bin\Debug\Lab02a.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab02a\Lab02a\bin\Debug\Lab02a.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab02a\Lab02a\obj\Debug\Lab02a.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab02a\Lab02a\obj\Debug\Lab02a.csproj.SuggestedBindingRedirects.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab02a\Lab02a\obj\Debug\Lab02a.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab02a\Lab02a\obj\Debug\Lab02a.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab02a\Lab02a\obj\Debug\Lab02a.pdb

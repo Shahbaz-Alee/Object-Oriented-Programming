@@ -1,0 +1,8 @@
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PD01c\PD01c\bin\Debug\PD01c.exe.config
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PD01c\PD01c\bin\Debug\PD01c.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PD01c\PD01c\bin\Debug\PD01c.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PD01c\PD01c\obj\Debug\PD01c.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PD01c\PD01c\obj\Debug\PD01c.csproj.SuggestedBindingRedirects.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PD01c\PD01c\obj\Debug\PD01c.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PD01c\PD01c\obj\Debug\PD01c.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PD01c\PD01c\obj\Debug\PD01c.pdb

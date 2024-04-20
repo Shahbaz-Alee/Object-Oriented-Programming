@@ -1,0 +1,16 @@
+D:\OOP_Lab\High_Low\High_Low\bin\Debug\High_Low.exe.config
+D:\OOP_Lab\High_Low\High_Low\bin\Debug\High_Low.exe
+D:\OOP_Lab\High_Low\High_Low\bin\Debug\High_Low.pdb
+D:\OOP_Lab\High_Low\High_Low\obj\Debug\High_Low.csproj.AssemblyReference.cache
+D:\OOP_Lab\High_Low\High_Low\obj\Debug\High_Low.csproj.SuggestedBindingRedirects.cache
+D:\OOP_Lab\High_Low\High_Low\obj\Debug\High_Low.csproj.CoreCompileInputs.cache
+D:\OOP_Lab\High_Low\High_Low\obj\Debug\High_Low.exe
+D:\OOP_Lab\High_Low\High_Low\obj\Debug\High_Low.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\High_Low\High_Low\bin\Debug\High_Low.exe.config
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\High_Low\High_Low\bin\Debug\High_Low.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\High_Low\High_Low\bin\Debug\High_Low.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\High_Low\High_Low\obj\Debug\High_Low.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\High_Low\High_Low\obj\Debug\High_Low.csproj.SuggestedBindingRedirects.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\High_Low\High_Low\obj\Debug\High_Low.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\High_Low\High_Low\obj\Debug\High_Low.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\High_Low\High_Low\obj\Debug\High_Low.pdb

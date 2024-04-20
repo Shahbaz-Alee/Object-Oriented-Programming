@@ -1,0 +1,8 @@
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab08\Lab08\bin\Debug\Lab08.exe.config
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab08\Lab08\bin\Debug\Lab08.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab08\Lab08\bin\Debug\Lab08.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab08\Lab08\obj\Debug\Lab08.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab08\Lab08\obj\Debug\Lab08.csproj.SuggestedBindingRedirects.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab08\Lab08\obj\Debug\Lab08.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Lab08\Lab08\obj\Debug\Lab08.pdb

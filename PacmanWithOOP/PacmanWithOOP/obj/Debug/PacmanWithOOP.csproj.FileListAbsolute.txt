@@ -1,0 +1,8 @@
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanWithOOP\PacmanWithOOP\bin\Debug\PacmanWithOOP.exe.config
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanWithOOP\PacmanWithOOP\bin\Debug\PacmanWithOOP.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanWithOOP\PacmanWithOOP\bin\Debug\PacmanWithOOP.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanWithOOP\PacmanWithOOP\obj\Debug\PacmanWithOOP.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanWithOOP\PacmanWithOOP\obj\Debug\PacmanWithOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanWithOOP\PacmanWithOOP\obj\Debug\PacmanWithOOP.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanWithOOP\PacmanWithOOP\obj\Debug\PacmanWithOOP.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\PacmanWithOOP\PacmanWithOOP\obj\Debug\PacmanWithOOP.pdb

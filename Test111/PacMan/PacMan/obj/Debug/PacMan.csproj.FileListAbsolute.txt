@@ -1,0 +1,35 @@
+G:\OOP 2022\PacMan\PacMan\bin\Debug\PacMan.exe.config
+G:\OOP 2022\PacMan\PacMan\bin\Debug\PacMan.exe
+G:\OOP 2022\PacMan\PacMan\bin\Debug\PacMan.pdb
+G:\OOP 2022\PacMan\PacMan\bin\Debug\EZInput.dll
+G:\OOP 2022\PacMan\PacMan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\OOP 2022\PacMan\PacMan\bin\Debug\Unity.Abstractions.dll
+G:\OOP 2022\PacMan\PacMan\bin\Debug\Unity.Container.dll
+G:\OOP 2022\PacMan\PacMan\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\OOP 2022\PacMan\PacMan\bin\Debug\EZInput.xml
+G:\OOP 2022\PacMan\PacMan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\OOP 2022\PacMan\PacMan\bin\Debug\Unity.Abstractions.pdb
+G:\OOP 2022\PacMan\PacMan\bin\Debug\Unity.Container.pdb
+G:\OOP 2022\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+G:\OOP 2022\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+G:\OOP 2022\PacMan\PacMan\obj\Debug\PacMan.csproj.CopyComplete
+G:\OOP 2022\PacMan\PacMan\obj\Debug\PacMan.exe
+G:\OOP 2022\PacMan\PacMan\obj\Debug\PacMan.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\bin\Debug\PacMan.exe.config
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\bin\Debug\EZInput.dll
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\bin\Debug\Unity.Abstractions.dll
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\bin\Debug\Unity.Container.dll
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\bin\Debug\EZInput.xml
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\bin\Debug\Unity.Abstractions.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\bin\Debug\Unity.Container.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\obj\Debug\PacMan.csproj.SuggestedBindingRedirects.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\obj\Debug\PacMan.csproj.CopyComplete
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\obj\Debug\PacMan.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\PacMan\PacMan\obj\Debug\PacMan.pdb

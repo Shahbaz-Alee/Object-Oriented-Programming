@@ -1,0 +1,8 @@
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Card Deck Game\Card Deck Game\bin\Debug\Card Deck Game.exe.config
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Card Deck Game\Card Deck Game\bin\Debug\Card Deck Game.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Card Deck Game\Card Deck Game\bin\Debug\Card Deck Game.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Card Deck Game\Card Deck Game\obj\Debug\Card Deck Game.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Card Deck Game\Card Deck Game\obj\Debug\Card Deck Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Card Deck Game\Card Deck Game\obj\Debug\Card Deck Game.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Card Deck Game\Card Deck Game\obj\Debug\Card Deck Game.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Card Deck Game\Card Deck Game\obj\Debug\Card Deck Game.pdb

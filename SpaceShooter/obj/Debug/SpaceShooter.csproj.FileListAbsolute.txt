@@ -1,0 +1,10 @@
+D:\1 UET\Semester 2\OOP\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\1 UET\Semester 2\OOP\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\1 UET\Semester 2\OOP\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\1 UET\Semester 2\OOP\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\1 UET\Semester 2\OOP\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\1 UET\Semester 2\OOP\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\1 UET\Semester 2\OOP\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\1 UET\Semester 2\OOP\SpaceShooter\bin\Debug\EZInput.dll
+D:\1 UET\Semester 2\OOP\SpaceShooter\bin\Debug\EZInput.xml
+D:\1 UET\Semester 2\OOP\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete

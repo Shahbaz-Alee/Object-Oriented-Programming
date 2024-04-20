@@ -1,0 +1,8 @@
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\Test111\bin\Debug\Test111.exe.config
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\Test111\bin\Debug\Test111.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\Test111\bin\Debug\Test111.pdb
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\Test111\obj\Debug\Test111.csproj.AssemblyReference.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\Test111\obj\Debug\Test111.csproj.SuggestedBindingRedirects.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\Test111\obj\Debug\Test111.csproj.CoreCompileInputs.cache
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\Test111\obj\Debug\Test111.exe
+C:\Users\T L S\Desktop\Workspace\UNI-Work\OOP\Test111\Test111\obj\Debug\Test111.pdb
